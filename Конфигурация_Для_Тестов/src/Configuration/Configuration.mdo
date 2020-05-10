@@ -35,4 +35,5 @@
   </languages>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Организации</catalogs>
+  <documents>Document.ПоступлениеТоваровУслуг</documents>
 </mdclass:Configuration>
